@@ -33,12 +33,15 @@ I used data in the covdata package in R to analyze the mobility scores&#39; fluc
 # Results
 
 ![](assets/image001.png)
+
 **Figure 1:** Driving mobility bottoms out in April 2020 and January 2021 and peaks in August 2020, with a mobility score of over 220 on some days. Peaks and troughs coincide for the three regimes; however, the presidential democracy has a generally higher level of mobility, and dictatorship holds a steady score level after the initial low point.
 
 ![](assets/image003.png)
+
 **Figure 2:** Transit mobility also bottoms out in April 2020 and January 2021 and peaks in September 2020. The initial trough coincides for the three regimes. However, the latter dynamic is unique for each of the three. Parliamentary democracy peaks in September 2020 and bottoms out in January 2021. Dictatorship grows steadily since the initial decrease. And presidential democracy fluctuates around the score of 60 with slight deviations, following the general trend.
 
 ![](assets/image005.png) 
+
 **Figure 3:** Walking mobility bottoms out in April 2020 and January 2021 and peaks in September 2020. The initial trough coincides for the three regimes. However, dictatorship recovers from the initial trough and proceeds to maintain the pre-pandemic level of mobility.
 
 # Discussion
